@@ -4,8 +4,5 @@ const myObject = {
 }
 console.log(myObject)
 
-const myObject = {
-	type: 'object',
-	value: 89
-}
+myObject.value = 89
 console.log(myObject)
