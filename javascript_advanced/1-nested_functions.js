@@ -1,3 +1,9 @@
+/*
+Creating a variable outside the function.
+Creating nested functions
+Closures would also be implemeted
+*/
+
 let globalVariable = "Welcome";
 
 function outer() {
